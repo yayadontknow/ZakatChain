@@ -2,6 +2,8 @@
 
 # Figma Prototype: https://www.figma.com/proto/OsPTsVhqHyUo1Ubggc55cK/ZakatChain?node-id=0-1&t=vBWnpHgZtbfsuEwD-1
 
+# Pitch Deck: https://docs.google.com/presentation/d/1SNhhHe7Y0sAAuDWM1ylQ1_sog4aG1jtA/edit?usp=sharing&ouid=101697955047506946782&rtpof=true&sd=true
+
 ## **Overview**
 
 **ZakatChain** is a decentralized platform that utilizes blockchain technology to ensure transparency, trust, and accountability in the distribution of zakat (charitable donations) within the Muslim community. By leveraging **Solana Blockchain** for transaction transparency and **IPFS** (InterPlanetary File System) for data storage, ZakatChain allows donors, organizations, and vendors to track and verify every step of the zakat process — from donation to fulfillment.
