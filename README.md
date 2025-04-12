@@ -1,6 +1,6 @@
 # **ZakatChain Documentation**
 
-# **Figma Prototype: ** https://www.figma.com/proto/OsPTsVhqHyUo1Ubggc55cK/ZakatChain?node-id=0-1&t=vBWnpHgZtbfsuEwD-1
+# Figma Prototype: https://www.figma.com/proto/OsPTsVhqHyUo1Ubggc55cK/ZakatChain?node-id=0-1&t=vBWnpHgZtbfsuEwD-1
 
 ## **Overview**
 
